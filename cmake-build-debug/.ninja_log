@@ -1,0 +1,27 @@
+# ninja log v5
+18	679	7355943114102727	CMakeFiles/CPPlearning.dir/switcher.cpp.obj	f515c510b4cfba23
+11	721	7355943114531575	CMakeFiles/CPPlearning.dir/pointers1.cpp.obj	4df9a2ece74e1b13
+63	979	7355943116935152	CMakeFiles/CPPlearning.dir/arrayInFunc.cpp.obj	bba10dbd0710f7bb
+3	704	7355943114342081	CMakeFiles/CPPlearning.dir/main.cpp.obj	5de8c2faa0720c78
+25	752	7355943114810830	CMakeFiles/CPPlearning.dir/random.cpp.obj	c484602be5c0a500
+680	1452	7355943121802128	CMakeFiles/CPPlearning.dir/pointers2.cpp.obj	bce603d9397be51d
+38	767	7355943114910582	CMakeFiles/CPPlearning.dir/funcParameters.cpp.obj	5ea8328c5ad8286
+1666	1889	7355943126180416	CPPlearning.exe	d9d7ccc83811a0c8
+722	1513	7355943122450396	CMakeFiles/CPPlearning.dir/funcOverloading.cpp.obj	5e582aec8ba4b061
+752	1505	7355943122350662	CMakeFiles/CPPlearning.dir/funcPrototypes.cpp.obj	8962c08af7cc32da
+704	1489	7355943122181169	CMakeFiles/CPPlearning.dir/varScope.cpp.obj	4e0b085399c1c13e
+768	1528	7355943122600004	CMakeFiles/CPPlearning.dir/templates.cpp.obj	1faba30c8e467755
+979	1666	7355943123976316	CMakeFiles/CPPlearning.dir/recursion.cpp.obj	f2aa5da24e70ab85
+4	768	7355964293402927	CMakeFiles/CPPlearning.dir/switcher.cpp.obj	28200e5fa181f8ee
+12	779	7355964293447940	CMakeFiles/CPPlearning.dir/main.cpp.obj	5c7c77de7ba3060c
+18	821	7355964293866907	CMakeFiles/CPPlearning.dir/pointers1.cpp.obj	1d9f071e5f33da66
+28	841	7355964293946690	CMakeFiles/CPPlearning.dir/pointers2.cpp.obj	bc171242cbf65207
+47	870	7355964294406156	CMakeFiles/CPPlearning.dir/random.cpp.obj	a2f866d542fe62f1
+80	889	7355964294515937	CMakeFiles/CPPlearning.dir/funcParameters.cpp.obj	f451c58eca1bd90e
+779	1551	7355964301156674	CMakeFiles/CPPlearning.dir/varScope.cpp.obj	29850db5bf0d4ff9
+821	1601	7355964301676080	CMakeFiles/CPPlearning.dir/funcOverloading.cpp.obj	7b355377876e0e7a
+841	1627	7355964301966044	CMakeFiles/CPPlearning.dir/recursion.cpp.obj	7e828415e2e1860e
+870	1650	7355964302206085	CMakeFiles/CPPlearning.dir/templates.cpp.obj	3b3bd668ae3b1825
+890	1658	7355964302286181	CMakeFiles/CPPlearning.dir/funcPrototypes.cpp.obj	85d39b4486fed9ea
+769	1690	7355964302606005	CMakeFiles/CPPlearning.dir/arrayInFunc.cpp.obj	49ed17f990ecc3a1
+1690	1913	7355964304797544	CPPlearning.exe	d9d7ccc83811a0c8
