@@ -1,7 +1,7 @@
 #include "topics.h"
 #include <iostream>
 
-void PtrVsRef()
+void ptrVsRef()
 {
     int a = 5;
     int* aPtr = &a;  // Pointer to a

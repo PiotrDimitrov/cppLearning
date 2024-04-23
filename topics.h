@@ -11,8 +11,9 @@ void varScope();
 void funcOverloading();
 void templates();
 void recursion();
-void PtrVsRef();
+void ptrVsRef();
 void newOperator();
+void newDynArr();
 
 
 #endif _TOPICS_H
