@@ -17,4 +17,5 @@ add_executable(CPPlearning main.cpp
         templates.cpp
         recursion.cpp
         PtrVsRef.cpp
-        newOperator.cpp)
+        newOperator.cpp
+        constParameters.cpp)
