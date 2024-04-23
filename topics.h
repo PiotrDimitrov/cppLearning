@@ -12,6 +12,7 @@ void funcOverloading();
 void templates();
 void recursion();
 void PtrVsRef();
+void newOperator();
 
 
 #endif _TOPICS_H

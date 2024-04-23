@@ -16,4 +16,5 @@ add_executable(CPPlearning main.cpp
         funcPrototypes.cpp
         templates.cpp
         recursion.cpp
-        PtrVsRef.cpp)
+        PtrVsRef.cpp
+        newOperator.cpp)
