@@ -11,6 +11,7 @@ void varScope();
 void funcOverloading();
 void templates();
 void recursion();
+void PtrVsRef();
 
 
 #endif _TOPICS_H
