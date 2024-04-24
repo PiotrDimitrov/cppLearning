@@ -17,5 +17,7 @@ void newDynArr();
 void constParameters();
 void arrayCopy();
 void strings1();
+void typeCast();
+void ascii();
 
 #endif _TOPICS_H

@@ -69,7 +69,9 @@
 				15,
 				16,
 				17,
-				18
+				18,
+				19,
+				20
 			]
 		}
 	],
@@ -123,7 +125,9 @@
 				15,
 				16,
 				17,
-				18
+				18,
+				19,
+				20
 			]
 		},
 		{
@@ -247,6 +251,18 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "strings1.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "typeCast.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ascii.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

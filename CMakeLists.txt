@@ -22,4 +22,6 @@ add_executable(CPPlearning main.cpp
         arrayCopy.cpp
         arrayCopy.cpp
         newDynArr.cpp
-        strings1.cpp)
+        strings1.cpp
+        typeCast.cpp
+        ascii.cpp)
