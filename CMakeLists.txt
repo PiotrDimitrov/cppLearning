@@ -18,4 +18,8 @@ add_executable(CPPlearning main.cpp
         recursion.cpp
         PtrVsRef.cpp
         newOperator.cpp
-        constParameters.cpp)
+        constParameters.cpp
+        arrayCopy.cpp
+        arrayCopy.cpp
+        newDynArr.cpp
+        strings1.cpp)

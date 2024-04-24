@@ -15,6 +15,7 @@ void ptrVsRef();
 void newOperator();
 void newDynArr();
 void constParameters();
-
+void arrayCopy();
+void strings1();
 
 #endif _TOPICS_H
