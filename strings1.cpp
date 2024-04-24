@@ -2,7 +2,7 @@
 #include <iostream>
 #include <cstring>
 
-int main() {
+void strings1() {
     char symbol = '\0'; // Null character
     char string[] = "Hello";
     std::cout << string << std::endl;
