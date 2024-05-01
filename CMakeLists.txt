@@ -24,4 +24,7 @@ add_executable(CPPlearning main.cpp
         newDynArr.cpp
         strings1.cpp
         typeCast.cpp
-        ascii.cpp)
+        ascii.cpp
+        strings2.cpp
+        concatination.cpp
+        stringLib.cpp)

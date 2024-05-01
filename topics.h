@@ -19,5 +19,8 @@ void arrayCopy();
 void strings1();
 void typeCast();
 void ascii();
+void strings2();
+void concatination();
+void stringLib();
 
 #endif _TOPICS_H
