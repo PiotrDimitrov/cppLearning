@@ -24,5 +24,6 @@ void concatination();
 void stringLib();
 void ptrToFunc();
 void predprocess();
+void conditCompil();
 
 #endif _TOPICS_H

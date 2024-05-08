@@ -29,4 +29,5 @@ add_executable(CPPlearning main.cpp
         concatination.cpp
         stringLib.cpp
         ptrToFunc.cpp
-        predprocess.cpp)
+        predprocess.cpp
+        conditCompil.cpp)

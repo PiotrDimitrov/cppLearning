@@ -199,6 +199,12 @@ build CMakeFiles/CPPlearning.dir/predprocess.cpp.obj: CXX_COMPILER__CPPlearning_
   OBJECT_DIR = CMakeFiles\CPPlearning.dir
   OBJECT_FILE_DIR = CMakeFiles\CPPlearning.dir
 
+build CMakeFiles/CPPlearning.dir/conditCompil.cpp.obj: CXX_COMPILER__CPPlearning_unscanned_Debug C$:/Users/User/Desktop/CPP/cppLearning/conditCompil.cpp || cmake_object_order_depends_target_CPPlearning
+  DEP_FILE = CMakeFiles\CPPlearning.dir\conditCompil.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CPPlearning.dir
+  OBJECT_FILE_DIR = CMakeFiles\CPPlearning.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target CPPlearning
@@ -207,7 +213,7 @@ build CMakeFiles/CPPlearning.dir/predprocess.cpp.obj: CXX_COMPILER__CPPlearning_
 #############################################
 # Link the executable CPPlearning.exe
 
-build CPPlearning.exe: CXX_EXECUTABLE_LINKER__CPPlearning_Debug CMakeFiles/CPPlearning.dir/main.cpp.obj CMakeFiles/CPPlearning.dir/switcher.cpp.obj CMakeFiles/CPPlearning.dir/pointers1.cpp.obj CMakeFiles/CPPlearning.dir/pointers2.cpp.obj CMakeFiles/CPPlearning.dir/random.cpp.obj CMakeFiles/CPPlearning.dir/funcParameters.cpp.obj CMakeFiles/CPPlearning.dir/arrayInFunc.cpp.obj CMakeFiles/CPPlearning.dir/varScope.cpp.obj CMakeFiles/CPPlearning.dir/funcOverloading.cpp.obj CMakeFiles/CPPlearning.dir/funcPrototypes.cpp.obj CMakeFiles/CPPlearning.dir/templates.cpp.obj CMakeFiles/CPPlearning.dir/recursion.cpp.obj CMakeFiles/CPPlearning.dir/PtrVsRef.cpp.obj CMakeFiles/CPPlearning.dir/newOperator.cpp.obj CMakeFiles/CPPlearning.dir/constParameters.cpp.obj CMakeFiles/CPPlearning.dir/arrayCopy.cpp.obj CMakeFiles/CPPlearning.dir/newDynArr.cpp.obj CMakeFiles/CPPlearning.dir/strings1.cpp.obj CMakeFiles/CPPlearning.dir/typeCast.cpp.obj CMakeFiles/CPPlearning.dir/ascii.cpp.obj CMakeFiles/CPPlearning.dir/strings2.cpp.obj CMakeFiles/CPPlearning.dir/concatination.cpp.obj CMakeFiles/CPPlearning.dir/stringLib.cpp.obj CMakeFiles/CPPlearning.dir/ptrToFunc.cpp.obj CMakeFiles/CPPlearning.dir/predprocess.cpp.obj
+build CPPlearning.exe: CXX_EXECUTABLE_LINKER__CPPlearning_Debug CMakeFiles/CPPlearning.dir/main.cpp.obj CMakeFiles/CPPlearning.dir/switcher.cpp.obj CMakeFiles/CPPlearning.dir/pointers1.cpp.obj CMakeFiles/CPPlearning.dir/pointers2.cpp.obj CMakeFiles/CPPlearning.dir/random.cpp.obj CMakeFiles/CPPlearning.dir/funcParameters.cpp.obj CMakeFiles/CPPlearning.dir/arrayInFunc.cpp.obj CMakeFiles/CPPlearning.dir/varScope.cpp.obj CMakeFiles/CPPlearning.dir/funcOverloading.cpp.obj CMakeFiles/CPPlearning.dir/funcPrototypes.cpp.obj CMakeFiles/CPPlearning.dir/templates.cpp.obj CMakeFiles/CPPlearning.dir/recursion.cpp.obj CMakeFiles/CPPlearning.dir/PtrVsRef.cpp.obj CMakeFiles/CPPlearning.dir/newOperator.cpp.obj CMakeFiles/CPPlearning.dir/constParameters.cpp.obj CMakeFiles/CPPlearning.dir/arrayCopy.cpp.obj CMakeFiles/CPPlearning.dir/newDynArr.cpp.obj CMakeFiles/CPPlearning.dir/strings1.cpp.obj CMakeFiles/CPPlearning.dir/typeCast.cpp.obj CMakeFiles/CPPlearning.dir/ascii.cpp.obj CMakeFiles/CPPlearning.dir/strings2.cpp.obj CMakeFiles/CPPlearning.dir/concatination.cpp.obj CMakeFiles/CPPlearning.dir/stringLib.cpp.obj CMakeFiles/CPPlearning.dir/ptrToFunc.cpp.obj CMakeFiles/CPPlearning.dir/predprocess.cpp.obj CMakeFiles/CPPlearning.dir/conditCompil.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CPPlearning.dir
