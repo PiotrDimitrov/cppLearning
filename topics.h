@@ -27,6 +27,7 @@ void predprocess();
 void conditCompil();
 void ternarOper();
 void forRangeLoop();
+void stdFunction();
 
 
 #endif _TOPICS_H

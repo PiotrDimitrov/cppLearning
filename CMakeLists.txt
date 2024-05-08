@@ -32,4 +32,5 @@ add_executable(CPPlearning main.cpp
         predprocess.cpp
         conditCompil.cpp
         ternarOper.cpp
-        forRangeLoop.cpp)
+        forRangeLoop.cpp
+        stdFunction.cpp)
