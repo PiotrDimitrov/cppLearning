@@ -26,5 +26,7 @@ void ptrToFunc();
 void predprocess();
 void conditCompil();
 void ternarOper();
+void forRangeLoop();
+
 
 #endif _TOPICS_H
