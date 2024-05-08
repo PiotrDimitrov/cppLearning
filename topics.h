@@ -23,6 +23,6 @@ void strings2();
 void concatination();
 void stringLib();
 void ptrToFunc();
-
+void predprocess();
 
 #endif _TOPICS_H
