@@ -22,5 +22,7 @@ void ascii();
 void strings2();
 void concatination();
 void stringLib();
+void ptrToFunc();
+
 
 #endif _TOPICS_H
