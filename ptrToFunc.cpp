@@ -28,6 +28,8 @@ std::string Network()
 }
 
 void ptrToFunc() {
+    //func type (*Pointer name)(arguments);
+    
     displayInfo(Client);
     displayInfo(Database);
 }
