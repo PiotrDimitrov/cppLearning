@@ -33,4 +33,5 @@ add_executable(CPPlearning main.cpp
         conditCompil.cpp
         ternarOper.cpp
         forRangeLoop.cpp
-        stdFunction.cpp)
+        stdFunction.cpp
+        lambdas.cpp)

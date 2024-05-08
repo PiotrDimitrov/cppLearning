@@ -28,6 +28,7 @@ void conditCompil();
 void ternarOper();
 void forRangeLoop();
 void stdFunction();
+void lambdas();
 
 
 #endif _TOPICS_H
