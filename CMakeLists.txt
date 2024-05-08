@@ -30,4 +30,5 @@ add_executable(CPPlearning main.cpp
         stringLib.cpp
         ptrToFunc.cpp
         predprocess.cpp
-        conditCompil.cpp)
+        conditCompil.cpp
+        ternarOper.cpp)
