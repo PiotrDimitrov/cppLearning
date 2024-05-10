@@ -37,4 +37,5 @@ add_executable(CPPlearning main.cpp
         lambdas.cpp
         runningTime.cpp
         runningTime.cpp
-        predicate.cpp)
+        predicate.cpp
+        stlSorting.cpp)

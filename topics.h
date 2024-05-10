@@ -31,5 +31,6 @@ void stdFunction();
 void lambdas();
 void runningTime();
 void predicate();
+void stlSorting();
 
 #endif _TOPICS_H
