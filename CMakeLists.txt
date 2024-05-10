@@ -34,4 +34,6 @@ add_executable(CPPlearning main.cpp
         ternarOper.cpp
         forRangeLoop.cpp
         stdFunction.cpp
-        lambdas.cpp)
+        lambdas.cpp
+        runningTime.cpp
+        runningTime.cpp)

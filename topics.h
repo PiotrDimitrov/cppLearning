@@ -29,6 +29,7 @@ void ternarOper();
 void forRangeLoop();
 void stdFunction();
 void lambdas();
+void runningTime();
 
 
 #endif _TOPICS_H
