@@ -32,6 +32,7 @@ void lambdas();
 void runningTime();
 void predicate();
 void stlSorting();
+void searchFindStl();
 
 
 #endif _TOPICS_H

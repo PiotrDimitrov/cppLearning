@@ -1,4 +1,5 @@
 #include <iostream>
+#include "topics.h"
 #include <algorithm>
 #include <vector>
 
