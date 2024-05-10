@@ -33,6 +33,6 @@ void runningTime();
 void predicate();
 void stlSorting();
 void searchFindStl();
-
+void copyStl();
 
 #endif _TOPICS_H
