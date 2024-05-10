@@ -30,6 +30,6 @@ void forRangeLoop();
 void stdFunction();
 void lambdas();
 void runningTime();
-
+void predicate();
 
 #endif _TOPICS_H

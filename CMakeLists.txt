@@ -36,4 +36,5 @@ add_executable(CPPlearning main.cpp
         stdFunction.cpp
         lambdas.cpp
         runningTime.cpp
-        runningTime.cpp)
+        runningTime.cpp
+        predicate.cpp)
