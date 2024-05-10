@@ -34,5 +34,8 @@ void predicate();
 void stlSorting();
 void searchFindStl();
 void copyStl();
+void multiThreading();
+void threadsParam();
+void threadRef();
 
 #endif _TOPICS_H

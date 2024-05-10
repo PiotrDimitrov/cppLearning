@@ -40,4 +40,5 @@ add_executable(CPPlearning main.cpp
         predicate.cpp
         stlSorting.cpp
         searchFindStl.cpp
-        copyStl.cpp)
+        copyStl.cpp
+        multiThreading.cpp)

@@ -86,7 +86,8 @@
 				32,
 				33,
 				34,
-				35
+				35,
+				36
 			]
 		}
 	],
@@ -157,7 +158,8 @@
 				32,
 				33,
 				34,
-				35
+				35,
+				36
 			]
 		},
 		{
@@ -383,6 +385,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "copyStl.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "multiThreading.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
