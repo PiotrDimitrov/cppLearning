@@ -15,7 +15,6 @@ namespace cpy{
     }
 }
 
-
 void copyStl() {
     std::vector <int> vec = {4, 3, 17, 1, 6, 2, 8, 9, 10, 5, 7, 11};
     std::vector <int> vec2 = {-1};
