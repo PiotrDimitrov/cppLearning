@@ -39,4 +39,4 @@ add_executable(CPPlearning main.cpp
         runningTime.cpp
         predicate.cpp
         stlSorting.cpp
-        searchFileStl.cpp)
+        searchFindStl.cpp)
