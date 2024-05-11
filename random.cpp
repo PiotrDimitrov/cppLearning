@@ -3,7 +3,6 @@
 #include <ctime>
 
 void random ()
-
 {
     srand(1); //randomizer seed
     int a;
@@ -17,5 +16,4 @@ void random ()
     std::cout << b << std::endl; //prints different numbers every time
     int c = rand() % 11; //random number between 0 and 10
     std::cout << c << std::endl;
-
 }
