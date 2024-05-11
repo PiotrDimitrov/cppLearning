@@ -5,7 +5,7 @@
 
 namespace ddlck{
     std::mutex mtx1; std::mutex mtx2;
-    
+
     void print1()
     {
         mtx2.lock();
