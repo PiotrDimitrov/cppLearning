@@ -4,7 +4,7 @@
 #include <chrono>
 
 namespace thdpmt{
-    void doWork(int a, int b) //emulation of a long running process
+    void doWork(int a, int b) //emulation of a long-running process
     {
         for (int i = 0; i < 6; i++)
         {
@@ -28,6 +28,5 @@ void threadsParam() {
         std::cout << "thread id: " << std::this_thread::get_id() << "\tmain\n";
         std::this_thread::sleep_for(std::chrono::milliseconds(500));
     }
-
     t1.join();
 }
