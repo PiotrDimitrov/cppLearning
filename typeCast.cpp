@@ -2,7 +2,7 @@
 #include <iostream>
 
 void typeCast() {
-    double a = 33.3;
+    double a = 33.33;
     std::cout << (int)a << std::endl;   //to int
     std::cout << (char)a << std::endl;  //to char
     char c = '9';

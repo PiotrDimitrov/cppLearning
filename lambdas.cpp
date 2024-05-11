@@ -26,7 +26,7 @@ void lambdas() {
 //short way
     std::cout << "vector:\n";
     lam::doWork(vec, [](int a){std::cout << ++a << std::endl;});
-    
+
     //[](){}; lambda syntax
     // () - capture list of parameters
     // {} - body of the function
