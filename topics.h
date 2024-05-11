@@ -38,6 +38,8 @@ void multiThreading();
 void threadsParam();
 void threadRef();
 void lambdaThread();
+void classMetThreads();
+void mutex();
 
 
 #endif _TOPICS_H

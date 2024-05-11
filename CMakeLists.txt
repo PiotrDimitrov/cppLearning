@@ -44,4 +44,5 @@ add_executable(CPPlearning main.cpp
         multiThreading.cpp
         threadsParam.cpp
         threadRef.cpp
-        lambdaThread.cpp)
+        lambdaThread.cpp
+        classMetThreads.cpp)
