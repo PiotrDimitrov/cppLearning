@@ -48,9 +48,6 @@ namespace mt{
     }
 }
 
-
-
-
 void mutex() {
     //case 1: without threads
     //print('*');
