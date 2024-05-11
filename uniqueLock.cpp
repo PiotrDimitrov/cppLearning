@@ -30,10 +30,11 @@ namespace nqlck{
     }
 }
 
-
 //lock guard picks up all the code into a mutex
 //to move only a part of code into a mutex we will use unique_lock
 
 void uniqueLock() {
-    std::thread t1 (nqlck::print('c'));
+    std::thread t1 (nqlck::print,'a');
+    std::thread t2 (nqlck::print,'c');
+    t1.join(); t2.join();
 }
