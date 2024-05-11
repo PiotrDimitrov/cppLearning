@@ -46,4 +46,8 @@ add_executable(CPPlearning main.cpp
         threadRef.cpp
         lambdaThread.cpp
         classMetThreads.cpp
-        mutex.cpp)
+        mutex.cpp
+        deadlock.cpp
+        lockGuard.cpp
+        recursiveMutex.cpp
+        uniqueLock.cpp)

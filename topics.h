@@ -40,6 +40,9 @@ void threadRef();
 void lambdaThread();
 void classMetThreads();
 void mutex();
-
+void lockGuard();
+void deadlock();
+void recursiveMutex();
+void uniqueLock();
 
 #endif //_TOPICS_H

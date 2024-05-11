@@ -92,7 +92,11 @@
 				38,
 				39,
 				40,
-				41
+				41,
+				42,
+				43,
+				44,
+				45
 			]
 		}
 	],
@@ -169,7 +173,11 @@
 				38,
 				39,
 				40,
-				41
+				41,
+				42,
+				43,
+				44,
+				45
 			]
 		},
 		{
@@ -431,6 +439,30 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "mutex.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "deadlock.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lockGuard.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "recursiveMutex.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "uniqueLock.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
