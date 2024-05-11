@@ -45,4 +45,5 @@ add_executable(CPPlearning main.cpp
         threadsParam.cpp
         threadRef.cpp
         lambdaThread.cpp
-        classMetThreads.cpp)
+        classMetThreads.cpp
+        mutex.cpp)
