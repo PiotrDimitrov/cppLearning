@@ -37,5 +37,7 @@ void copyStl();
 void multiThreading();
 void threadsParam();
 void threadRef();
+void lambdaThread();
+
 
 #endif _TOPICS_H
