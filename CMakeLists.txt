@@ -42,4 +42,5 @@ add_executable(CPPlearning main.cpp
         searchFindStl.cpp
         copyStl.cpp
         multiThreading.cpp
-        threadsParam.cpp)
+        threadsParam.cpp
+        threadRef.cpp)
