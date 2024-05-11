@@ -1,17 +1,17 @@
 #include "topics.h"
 #include <iostream>
 
-
-int value = 100;  //global variables are initialized outside any functions
+int value100 = 100;  //global variables are initialized outside any functions
 double pi = 3.1415;  //we can access them from ANY block
-
-int arc_length(int radius) {
-    return 2 * pi * radius; //we can access pi from any other functions
+namespace scp{
+    int arc_length(int radius) {
+        return 2 * pi * radius; //we can access pi from any other functions
+    }
 }
 
 void varScope() {
     std::cout << pi << std::endl; //we can access pi from main
-    std::cout << arc_length(5) << std::endl;
+    std::cout << scp::arc_length(5) << std::endl;
 
     {
         int a = 5;
