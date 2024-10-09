@@ -44,5 +44,6 @@ void lockGuard();
 void deadlock();
 void recursiveMutex();
 void uniqueLock();
+void unordered_map();
 
 #endif //_TOPICS_H
